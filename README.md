@@ -1,4 +1,4 @@
-# 🔮 Mythical-Meta [#1]
+# 🔮 Mythical-Orb [#1]
 > **"Logic flows freely, creations multiply infinitely, and the legacy cannot be erased."**
 
 ## 🌌 Overview
@@ -10,8 +10,8 @@ This project is protected by the **GNU Affero General Public License v3.0 (AGPL-
 * **Protection:** Anyone who builds upon this legacy is legally bound to share their code under the same terms.
 
 ## 🏗️ Core Architecture
-- **[Layer 0] Cryogenic-Mythic:** Deep storage and security logic.
-- **[Layer 1] Meta-Orb:** The central intelligence and processing hub.
+- **[Layer 0] Metaphor:** Deep storage and security logic.
+- **[Layer 1] Cryo-Tunnel:** The central intelligence and processing hub.
 - **[Layer 2] Nexus:** High-speed connectivity protocols.
 
 ## 🛠️ Status
